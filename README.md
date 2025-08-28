@@ -1,2 +1,4 @@
 # My_first_project
-Мой первый проект 
+
+Мой первый проект
+my project
